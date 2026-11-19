@@ -5,6 +5,15 @@
     <link>https://rafabuilder.github.io/kalm-releases/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>0.1.11</title>
+      <pubDate>Thu, 19 Nov 2026 09:21:07 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/rafabuilder/kalm-releases/releases/tag/v0.1.11</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rafabuilder/kalm-releases/releases/download/v0.1.11/Kalm-0.1.11.dmg" type="application/octet-stream" sparkle:edSignature="XSeJf5snBGvRcp1cV98e7j61c62lFOGKyz+JjDFJrYi/n/hZefrnUzACl/TL38SLeNM0M0eXkt9Xq5NddnQ7BQ==" length="8669150" />
+    </item>
+    <item>
       <title>0.1.10</title>
       <pubDate>Wed, 18 Nov 2026 21:26:54 +0000</pubDate>
       <sparkle:version>11</sparkle:version>
